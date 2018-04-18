@@ -1,0 +1,1781 @@
+Brief analyses by shop 
+RESULTS FOR SHOP  OUT010 
+ 
+Variance of outlet establishment year:  0 
+Contingency tables for shop  OUT010 
+     
+      Low Fat Regular None
+  DRA       1       2    0
+  DRB       1       2    0
+  DRC       2       0    0
+  DRD       4       0    0
+  DRE       4       0    0
+  DRF       3       0    0
+  DRG       4       0    0
+  DRH       3       0    0
+  DRI       7       0    0
+  DRJ       6       0    0
+  DRK       4       0    0
+  DRL       3       1    0
+  DRM       3       0    0
+  DRN       3       0    0
+  DRO       1       0    0
+  DRP       0       0    0
+  DRQ       0       0    0
+  DRY       0       0    0
+  DRZ       0       0    0
+  FDA       8       4    0
+  FDB       8       5    0
+  FDC       9       6    0
+  FDD       8       5    0
+  FDE       9       9    0
+  FDF       7       6    0
+  FDG       7       8    0
+  FDH       6       6    0
+  FDI       5       4    0
+  FDJ       4       7    0
+  FDK      13       2    0
+  FDL       5       7    0
+  FDM       6       7    0
+  FDN       4       4    0
+  FDO       8       6    0
+  FDP       9       5    0
+  FDQ       5       9    0
+  FDR      13       8    0
+  FDS       9       8    0
+  FDT       9       9    0
+  FDU       7      10    0
+  FDV       8      10    0
+  FDW       7      11    0
+  FDX      10      11    0
+  FDY       4      12    0
+  FDZ       8      12    0
+  NCA       0       0    5
+  NCB       0       0    4
+  NCC       0       0    4
+  NCD       0       0    4
+  NCE       0       0    4
+  NCF       0       0    5
+  NCG       0       0    2
+  NCH       0       0    7
+  NCI       0       0    3
+  NCJ       0       0    5
+  NCK       0       0    7
+  NCL       0       0    3
+  NCM       0       0    5
+  NCN       0       0    9
+  NCO       0       0    4
+  NCP       0       0    7
+  NCQ       0       0    5
+  NCR       0       0    3
+  NCS       0       0    2
+  NCT       0       0    1
+  NCU       0       0    3
+  NCV       0       0    6
+  NCW       0       0    2
+  NCX       0       0    6
+  NCY       0       0    2
+  NCZ       0       0    6
+                       
+                        DRA DRB DRC DRD DRE DRF DRG DRH DRI DRJ DRK DRL DRM DRN DRO DRP
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   1   1   2   1   2   1   2   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   1   1   1   2   3   2   1   2   2   1   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        DRQ DRY DRZ FDA FDB FDC FDD FDE FDF FDG FDH FDI FDJ FDK FDL FDM
+  Baking Goods            0   0   0   0   2   1   1   1   1   0   1   1   2   0   2   1
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   2
+  Canned                  0   0   0   2   1   4   3   1   1   2   1   1   0   2   2   1
+  Dairy                   0   0   0   3   4   1   0   1   0   0   1   0   1   2   0   1
+  Frozen Foods            0   0   0   1   2   2   4   6   2   2   2   1   2   4   2   1
+  Fruits and Vegetables   0   0   0   5   1   3   2   3   5   4   3   3   2   2   1   3
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   1   0   0   0   0   0   1   0   1   2   1   0   1
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   1   1   1   0   1   0   0   0
+  Snack Foods             0   0   0   0   3   2   2   3   3   4   1   2   1   4   4   3
+                       
+                        FDN FDO FDP FDQ FDR FDS FDT FDU FDV FDW FDX FDY FDZ NCA NCB NCC
+  Baking Goods            1   2   1   0   2   2   3   3   4   2   3   3   3   0   0   0
+  Breads                  0   1   2   1   3   1   1   3   2   1   0   2   0   0   0   0
+  Breakfast               2   1   1   1   1   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   1   2   1   1   2   1   0   2   1   2   0   1   0   0   0
+  Dairy                   0   0   0   1   2   1   0   3   1   2   4   2   3   0   0   0
+  Frozen Foods            0   2   2   2   2   3   1   1   2   2   2   1   3   0   0   0
+  Fruits and Vegetables   1   3   2   4   4   3   3   1   2   7   4   4   4   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   5   3   3
+  Meat                    3   0   4   3   1   2   4   2   1   1   3   2   1   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             1   4   0   1   5   3   5   4   4   2   3   2   5   0   0   0
+                       
+                        NCD NCE NCF NCG NCH NCI NCJ NCK NCL NCM NCN NCO NCP NCQ NCR NCS
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   1   1   3   2   2   3   1   4   3   1   0
+  Household               4   4   5   2   7   1   3   3   1   1   3   2   2   2   2   2
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   1   1   1   0   2   3   1   1   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        NCT NCU NCV NCW NCX NCY NCZ
+  Baking Goods            0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0
+  Health and Hygiene      0   2   4   0   4   1   3
+  Household               1   1   2   2   2   1   3
+  Meat                    0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0
+ [ reached getOption("max.print") -- omitted 2 rows ]
+                       
+                        Low Fat Regular None
+  Baking Goods               20      22    0
+  Breads                      7      10    0
+  Breakfast                   4       5    0
+  Canned                     19      16    0
+  Dairy                      28      15    0
+  Frozen Foods               34      20    0
+  Fruits and Vegetables      33      46    0
+  Hard Drinks                16       0    0
+  Health and Hygiene          0       0   37
+  Household                   0       0   67
+  Meat                       13      21    0
+  Others                      0       0   10
+  Seafood                     2       2    0
+  Snack Foods                42      29    0
+  Soft Drinks                23       5    0
+  Starchy Foods               4       5    0
+
+ 
+RESULTS FOR SHOP  OUT013 
+ 
+Variance of outlet establishment year:  0 
+Contingency tables for shop  OUT013 
+     
+      Low Fat Regular None
+  DRA       1       2    0
+  DRB       2       2    0
+  DRC       1       2    0
+  DRD       7       0    0
+  DRE       6       0    0
+  DRF       7       0    0
+  DRG       9       0    0
+  DRH      10       0    0
+  DRI       5       0    0
+  DRJ      10       0    0
+  DRK       7       0    0
+  DRL       3       1    0
+  DRM       4       1    0
+  DRN       3       0    0
+  DRO       0       0    0
+  DRP       2       0    0
+  DRQ       1       0    0
+  DRY       0       0    0
+  DRZ       0       1    0
+  FDA      18      11    0
+  FDB      13      12    0
+  FDC      14      13    0
+  FDD      20       9    0
+  FDE      11      10    0
+  FDF      11       9    0
+  FDG      13       7    0
+  FDH      10      11    0
+  FDI      13       9    0
+  FDJ       7      13    0
+  FDK      15       4    0
+  FDL      12      17    0
+  FDM      10      14    0
+  FDN       8      12    0
+  FDO      13      13    0
+  FDP      14       7    0
+  FDQ      15      11    0
+  FDR      15      15    0
+  FDS      16      16    0
+  FDT      13      11    0
+  FDU      14      15    0
+  FDV      14      16    0
+  FDW      17      17    0
+  FDX      17      15    0
+  FDY      12      15    0
+  FDZ      13      15    0
+  NCA       0       0    8
+  NCB       0       0    6
+  NCC       0       0    8
+  NCD       0       0    8
+  NCE       0       0    6
+  NCF       0       0    6
+  NCG       0       0    7
+  NCH       0       0    4
+  NCI       0       0    6
+  NCJ       0       0    8
+  NCK       0       0    9
+  NCL       0       0    6
+  NCM       0       0    8
+  NCN       0       0   11
+  NCO       0       0    9
+  NCP       0       0    8
+  NCQ       0       0   11
+  NCR       0       0    7
+  NCS       0       0    7
+  NCT       0       0    5
+  NCU       0       0    5
+  NCV       0       0    5
+  NCW       0       0    4
+  NCX       0       0    5
+  NCY       0       0    6
+  NCZ       0       0    7
+                       
+                        DRA DRB DRC DRD DRE DRF DRG DRH DRI DRJ DRK DRL DRM DRN DRO DRP
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   2   1   3   2   3   1   2   1   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   2   2   1   5   3   2   3   2   0   2
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        DRQ DRY DRZ FDA FDB FDC FDD FDE FDF FDG FDH FDI FDJ FDK FDL FDM
+  Baking Goods            0   0   0   3   4   1   0   0   1   2   1   3   3   1   3   2
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   3
+  Canned                  0   0   0   1   1   3   4   3   1   3   4   1   2   2   3   2
+  Dairy                   0   0   0   7   7   5   6   1   1   0   1   1   1   1   2   1
+  Frozen Foods            0   0   0   3   2   4   4   5   6   4   5   5   3   4   5   3
+  Fruits and Vegetables   0   0   0   8   6   7   8   6   7   6   3   5   3   3   4   5
+  Hard Drinks             1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   1   0   0   0   0   0   1   1   1   1   2   2   3
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   1   1   1   1   1   0   0
+  Snack Foods             0   0   0   5   2   5   4   2   2   2   3   5   6   5   9   5
+                       
+                        FDN FDO FDP FDQ FDR FDS FDT FDU FDV FDW FDX FDY FDZ NCA NCB NCC
+  Baking Goods            1   5   3   2   5   5   4   3   3   5   4   5   4   0   0   0
+  Breads                  1   1   2   2   4   3   1   3   1   3   3   1   0   0   0   0
+  Breakfast               2   2   2   2   1   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  2   1   1   1   3   3   3   2   3   4   3   5   4   0   0   0
+  Dairy                   0   0   1   0   3   2   2   3   5   3   5   3   4   0   0   0
+  Frozen Foods            3   2   2   4   3   4   2   2   4   3   3   4   3   0   0   0
+  Fruits and Vegetables   2   6   5   5   5   6   6   7   5   8   5   6   5   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   2   3   2
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   6   3   6
+  Meat                    2   2   2   4   1   3   2   3   3   2   3   1   1   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             7   7   3   6   5   6   4   6   6   6   6   2   6   0   0   0
+                       
+                        NCD NCE NCF NCG NCH NCI NCJ NCK NCL NCM NCN NCO NCP NCQ NCR NCS
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      1   0   0   0   1   1   3   4   2   2   3   2   3   4   3   4
+  Household               7   6   6   7   3   5   4   4   2   2   5   6   3   5   4   3
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   1   1   2   4   3   1   2   2   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        NCT NCU NCV NCW NCX NCY NCZ
+  Baking Goods            0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0
+  Health and Hygiene      3   3   3   2   3   3   4
+  Household               2   2   2   2   2   3   3
+  Meat                    0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0
+ [ reached getOption("max.print") -- omitted 2 rows ]
+                       
+                        Low Fat Regular None
+  Baking Goods               35      38    0
+  Breads                     16       9    0
+  Breakfast                   6       7    0
+  Canned                     33      32    0
+  Dairy                      53      27    0
+  Frozen Foods               47      45    0
+  Fruits and Vegetables      73      69    0
+  Hard Drinks                23       0    0
+  Health and Hygiene          0       0   61
+  Household                   0       0  103
+  Meat                       15      26    0
+  Others                      0       0   16
+  Seafood                     4       1    0
+  Snack Foods                68      57    0
+  Soft Drinks                40       9    0
+  Starchy Foods              13       6    0
+
+ 
+RESULTS FOR SHOP  OUT017 
+ 
+Variance of outlet establishment year:  0 
+Contingency tables for shop  OUT017 
+     
+      Low Fat Regular None
+  DRA       1       2    0
+  DRB       2       2    0
+  DRC       3       3    0
+  DRD       6       1    0
+  DRE       6       0    0
+  DRF       6       0    0
+  DRG       4       0    0
+  DRH       6       0    0
+  DRI       9       0    0
+  DRJ       9       0    0
+  DRK       8       0    0
+  DRL       3       1    0
+  DRM       4       1    0
+  DRN       4       0    0
+  DRO       3       0    0
+  DRP       1       0    0
+  DRQ       1       0    0
+  DRY       0       1    0
+  DRZ       1       1    0
+  FDA      15      10    0
+  FDB      15       8    0
+  FDC      11      13    0
+  FDD      15       8    0
+  FDE      12      11    0
+  FDF      14      10    0
+  FDG      13      14    0
+  FDH      14      12    0
+  FDI      10      13    0
+  FDJ      11      14    0
+  FDK      17       5    0
+  FDL      12       9    0
+  FDM       9      14    0
+  FDN       9      10    0
+  FDO      11      11    0
+  FDP      14      12    0
+  FDQ      10      10    0
+  FDR      15      19    0
+  FDS      20      18    0
+  FDT      20      11    0
+  FDU       9      15    0
+  FDV      13      14    0
+  FDW      13      15    0
+  FDX      15      12    0
+  FDY      12      17    0
+  FDZ      16      15    0
+  NCA       0       0    7
+  NCB       0       0    6
+  NCC       0       0    3
+  NCD       0       0    7
+  NCE       0       0    5
+  NCF       0       0    6
+  NCG       0       0    1
+  NCH       0       0    6
+  NCI       0       0    6
+  NCJ       0       0    7
+  NCK       0       0    7
+  NCL       0       0    9
+  NCM       0       0    9
+  NCN       0       0    8
+  NCO       0       0   13
+  NCP       0       0   10
+  NCQ       0       0   11
+  NCR       0       0    7
+  NCS       0       0    5
+  NCT       0       0    5
+  NCU       0       0    4
+  NCV       0       0    6
+  NCW       0       0    5
+  NCX       0       0    7
+  NCY       0       0    6
+  NCZ       0       0    6
+                       
+                        DRA DRB DRC DRD DRE DRF DRG DRH DRI DRJ DRK DRL DRM DRN DRO DRP
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   1   1   2   1   2   1   3   1   1   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   1   0   1   2   3   3   1   3   3   3   1
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        DRQ DRY DRZ FDA FDB FDC FDD FDE FDF FDG FDH FDI FDJ FDK FDL FDM
+  Baking Goods            0   0   0   4   2   2   0   2   2   2   4   2   3   2   2   4
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   1   2   3
+  Canned                  0   0   0   3   2   2   2   1   3   5   4   4   3   5   2   1
+  Dairy                   0   0   0   3   5   7   3   2   1   0   1   2   1   2   1   0
+  Frozen Foods            0   0   0   3   3   5   6   5   7   7   7   5   5   3   3   3
+  Fruits and Vegetables   0   0   0   6   6   4   7   6   4   7   3   4   3   2   3   4
+  Hard Drinks             1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   1   0   0   0   0   0   0   1   1   3   3   2   3
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   1   1   1   1   1   0   0
+  Snack Foods             0   0   0   4   2   3   2   4   3   3   4   4   6   3   6   5
+                       
+                        FDN FDO FDP FDQ FDR FDS FDT FDU FDV FDW FDX FDY FDZ NCA NCB NCC
+  Baking Goods            3   2   5   3   5   2   3   2   4   2   4   4   3   0   0   0
+  Breads                  0   1   1   2   3   4   3   1   1   3   2   0   1   0   0   0
+  Breakfast               1   2   2   1   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  1   2   2   1   2   5   5   3   1   3   3   3   1   0   0   0
+  Dairy                   0   0   1   1   3   4   1   4   2   3   3   4   7   0   0   0
+  Frozen Foods            4   3   3   4   3   5   4   1   4   1   3   4   5   0   0   0
+  Fruits and Vegetables   4   5   4   3   6   8   6   3   6   6   7   5   5   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   4   3   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   3   3   3
+  Meat                    2   1   2   1   5   3   2   5   4   2   0   1   2   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             4   6   6   4   7   7   7   5   5   8   5   8   7   0   0   0
+                       
+                        NCD NCE NCF NCG NCH NCI NCJ NCK NCL NCM NCN NCO NCP NCQ NCR NCS
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   1   2   2   4   4   3   3   5   2   4   3   3
+  Household               7   5   6   1   5   4   4   2   3   3   2   6   6   5   4   2
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   1   1   2   3   3   2   2   2   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        NCT NCU NCV NCW NCX NCY NCZ
+  Baking Goods            0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0
+  Health and Hygiene      2   1   4   2   3   4   2
+  Household               3   3   2   3   4   2   4
+  Meat                    0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0
+ [ reached getOption("max.print") -- omitted 2 rows ]
+                       
+                        Low Fat Regular None
+  Baking Goods               34      39    0
+  Breads                     14       8    0
+  Breakfast                   5       7    0
+  Canned                     40      29    0
+  Dairy                      47      27    0
+  Frozen Foods               54      52    0
+  Fruits and Vegetables      63      64    0
+  Hard Drinks                22       0    0
+  Health and Hygiene          0       0   61
+  Household                   0       0   95
+  Meat                       16      28    0
+  Others                      0       0   16
+  Seafood                     3       2    0
+  Snack Foods                70      58    0
+  Soft Drinks                42      12    0
+  Starchy Foods              12       6    0
+
+ 
+RESULTS FOR SHOP  OUT018 
+ 
+Variance of outlet establishment year:  0 
+Contingency tables for shop  OUT018 
+     
+      Low Fat Regular None
+  DRA       1       1    0
+  DRB       1       0    0
+  DRC       3       2    0
+  DRD       6       1    0
+  DRE       5       0    0
+  DRF      11       0    0
+  DRG       9       0    0
+  DRH       4       0    0
+  DRI      10       0    0
+  DRJ       8       0    0
+  DRK       7       0    0
+  DRL       3       0    0
+  DRM       5       0    0
+  DRN       3       0    0
+  DRO       1       0    0
+  DRP       1       0    0
+  DRQ       1       0    0
+  DRY       0       0    0
+  DRZ       0       1    0
+  FDA      15      12    0
+  FDB      13      15    0
+  FDC      16      12    0
+  FDD      16       7    0
+  FDE       9       7    0
+  FDF      11      10    0
+  FDG      12      13    0
+  FDH      10      11    0
+  FDI       9      12    0
+  FDJ      11      12    0
+  FDK      17       7    0
+  FDL      13      11    0
+  FDM       9      11    0
+  FDN      11      10    0
+  FDO      15      17    0
+  FDP      16      11    0
+  FDQ      12      13    0
+  FDR      14      15    0
+  FDS      10      12    0
+  FDT      20      17    0
+  FDU      12      13    0
+  FDV      20      15    0
+  FDW       9      13    0
+  FDX      20      13    0
+  FDY      15      20    0
+  FDZ      11      16    0
+  NCA       0       0    3
+  NCB       0       0    6
+  NCC       0       0    4
+  NCD       0       0    4
+  NCE       0       0    6
+  NCF       0       0    6
+  NCG       0       0    6
+  NCH       0       0    8
+  NCI       0       0    9
+  NCJ       0       0    5
+  NCK       0       0    8
+  NCL       0       0    6
+  NCM       0       0   10
+  NCN       0       0   11
+  NCO       0       0   11
+  NCP       0       0   13
+  NCQ       0       0    7
+  NCR       0       0    7
+  NCS       0       0    6
+  NCT       0       0    5
+  NCU       0       0    6
+  NCV       0       0    4
+  NCW       0       0    6
+  NCX       0       0    6
+  NCY       0       0    4
+  NCZ       0       0    6
+                       
+                        DRA DRB DRC DRD DRE DRF DRG DRH DRI DRJ DRK DRL DRM DRN DRO DRP
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   1   0   2   4   3   2   3   1   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   1   2   0   3   2   4   1   4   2   1   1
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        DRQ DRY DRZ FDA FDB FDC FDD FDE FDF FDG FDH FDI FDJ FDK FDL FDM
+  Baking Goods            0   0   0   2   4   0   2   2   2   2   2   2   0   2   2   1
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   3
+  Canned                  0   0   0   4   4   4   2   1   2   4   4   4   2   5   3   2
+  Dairy                   0   0   0   5   5   5   3   1   1   0   1   0   1   1   2   1
+  Frozen Foods            0   0   0   3   2   4   2   3   5   5   5   6   5   4   3   2
+  Fruits and Vegetables   0   0   0   7   6   7   9   3   5   7   5   4   2   2   3   4
+  Hard Drinks             1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   1   0   0   0   0   0   0   1   0   3   3   3   3
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   1   2   0   2   2   0   0   0
+  Snack Foods             0   0   0   4   5   4   3   3   3   2   3   3   8   7   6   4
+                       
+                        FDN FDO FDP FDQ FDR FDS FDT FDU FDV FDW FDX FDY FDZ NCA NCB NCC
+  Baking Goods            3   3   2   3   3   3   5   2   4   1   5   5   6   0   0   0
+  Breads                  0   1   2   2   3   2   3   3   4   2   2   2   1   0   0   0
+  Breakfast               3   2   2   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  2   3   2   2   4   4   2   4   4   2   3   3   2   0   0   0
+  Dairy                   0   0   1   2   2   0   5   1   4   4   4   5   3   0   0   0
+  Frozen Foods            2   4   4   2   4   4   4   4   3   2   4   3   3   0   0   0
+  Fruits and Vegetables   2   6   4   6   6   4   7   4   5   5   9   8   5   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   2   2   1
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   1   4   3
+  Meat                    2   5   3   2   2   1   3   3   3   3   1   3   1   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             7   8   7   6   5   4   8   4   8   3   5   6   6   0   0   0
+                       
+                        NCD NCE NCF NCG NCH NCI NCJ NCK NCL NCM NCN NCO NCP NCQ NCR NCS
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      1   0   0   0   1   2   2   2   4   4   4   4   5   2   5   1
+  Household               3   6   6   6   7   6   2   3   1   3   4   3   6   3   2   5
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   1   1   3   1   3   3   4   2   2   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        NCT NCU NCV NCW NCX NCY NCZ
+  Baking Goods            0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0
+  Health and Hygiene      1   2   2   3   3   2   3
+  Household               4   4   2   3   3   2   3
+  Meat                    0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0
+ [ reached getOption("max.print") -- omitted 2 rows ]
+                       
+                        Low Fat Regular None
+  Baking Goods               34      34    0
+  Breads                     16      11    0
+  Breakfast                   4       8    0
+  Canned                     40      38    0
+  Dairy                      43      30    0
+  Frozen Foods               45      47    0
+  Fruits and Vegetables      71      64    0
+  Hard Drinks                22       0    0
+  Health and Hygiene          0       0   58
+  Household                   0       0   95
+  Meat                       22      24    0
+  Others                      0       0   20
+  Seafood                     3       4    0
+  Snack Foods                75      57    0
+  Soft Drinks                41       5    0
+  Starchy Foods               9       8    0
+
+ 
+RESULTS FOR SHOP  OUT019 
+ 
+Variance of outlet establishment year:  0 
+Contingency tables for shop  OUT019 
+     
+      Low Fat Regular None
+  DRA       0       2    0
+  DRB       0       0    0
+  DRC       1       0    0
+  DRD       4       0    0
+  DRE       3       0    0
+  DRF       6       0    0
+  DRG       3       0    0
+  DRH      10       0    0
+  DRI       2       0    0
+  DRJ       1       0    0
+  DRK       4       0    0
+  DRL       2       1    0
+  DRM       2       0    0
+  DRN       1       0    0
+  DRO       1       0    0
+  DRP       1       0    0
+  DRQ       0       0    0
+  DRY       0       1    0
+  DRZ       0       0    0
+  FDA       9       4    0
+  FDB       7       8    0
+  FDC       9       7    0
+  FDD       9       2    0
+  FDE       7       8    0
+  FDF       4       3    0
+  FDG       6       7    0
+  FDH      11       9    0
+  FDI       6       3    0
+  FDJ       4       4    0
+  FDK       9       5    0
+  FDL       6      10    0
+  FDM       3       3    0
+  FDN       8       5    0
+  FDO       5       7    0
+  FDP      11       5    0
+  FDQ      10      10    0
+  FDR       6       6    0
+  FDS      10      11    0
+  FDT       5       6    0
+  FDU       9      10    0
+  FDV      10       8    0
+  FDW      12       7    0
+  FDX      10      12    0
+  FDY       8      13    0
+  FDZ      12       5    0
+  NCA       0       0    2
+  NCB       0       0    4
+  NCC       0       0    0
+  NCD       0       0    2
+  NCE       0       0    4
+  NCF       0       0    3
+  NCG       0       0    3
+  NCH       0       0    4
+  NCI       0       0    4
+  NCJ       0       0    2
+  NCK       0       0    3
+  NCL       0       0    6
+  NCM       0       0    6
+  NCN       0       0    6
+  NCO       0       0    5
+  NCP       0       0    5
+  NCQ       0       0    7
+  NCR       0       0    4
+  NCS       0       0    3
+  NCT       0       0    5
+  NCU       0       0    3
+  NCV       0       0    3
+  NCW       0       0    3
+  NCX       0       0    7
+  NCY       0       0    1
+  NCZ       0       0    4
+                       
+                        DRA DRB DRC DRD DRE DRF DRG DRH DRI DRJ DRK DRL DRM DRN DRO DRP
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   2   1   2   1   4   1   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   1   1   0   2   1   1   0   1   1
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        DRQ DRY DRZ FDA FDB FDC FDD FDE FDF FDG FDH FDI FDJ FDK FDL FDM
+  Baking Goods            0   0   0   1   1   3   0   0   0   1   3   1   0   1   2   1
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0
+  Canned                  0   0   0   2   2   1   3   1   0   1   2   1   2   2   2   0
+  Dairy                   0   0   0   5   2   2   3   2   1   0   1   1   0   0   0   0
+  Frozen Foods            0   0   0   0   3   2   3   4   3   2   5   2   0   0   4   1
+  Fruits and Vegetables   0   0   0   4   4   5   0   5   2   3   3   2   2   2   3   2
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   1   2   1   0   4   1   1
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   2   1   0   2   1   0   0
+  Snack Foods             0   0   0   1   1   3   2   2   1   2   3   1   2   3   3   1
+                       
+                        FDN FDO FDP FDQ FDR FDS FDT FDU FDV FDW FDX FDY FDZ NCA NCB NCC
+  Baking Goods            3   1   0   4   1   2   1   3   1   4   3   2   4   0   0   0
+  Breads                  0   1   1   2   1   3   0   0   2   3   2   1   0   0   0   0
+  Breakfast               3   2   2   1   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  1   0   2   1   1   2   2   2   2   3   0   2   1   0   0   0
+  Dairy                   0   0   1   1   1   1   0   3   2   4   3   3   2   0   0   0
+  Frozen Foods            0   1   1   2   1   2   1   3   1   0   3   4   1   0   0   0
+  Fruits and Vegetables   1   2   0   2   4   3   3   4   3   1   6   3   4   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   4   0
+  Meat                    2   2   3   2   1   2   2   0   3   2   1   2   0   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             3   3   6   5   2   6   2   4   4   2   4   4   5   0   0   0
+                       
+                        NCD NCE NCF NCG NCH NCI NCJ NCK NCL NCM NCN NCO NCP NCQ NCR NCS
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   3   2   1   3   1   1   2   1   2
+  Household               2   4   3   3   4   3   2   0   1   2   0   2   1   3   3   1
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   1   0   0   3   3   3   2   3   2   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        NCT NCU NCV NCW NCX NCY NCZ
+  Baking Goods            0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0
+  Health and Hygiene      3   1   1   2   3   1   1
+  Household               2   2   2   1   4   0   3
+  Meat                    0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0
+ [ reached getOption("max.print") -- omitted 2 rows ]
+                       
+                        Low Fat Regular None
+  Baking Goods               28      15    0
+  Breads                     10       6    0
+  Breakfast                   4       6    0
+  Canned                     20      18    0
+  Dairy                      32      17    0
+  Frozen Foods               26      23    0
+  Fruits and Vegetables      36      37    0
+  Hard Drinks                 8       0    0
+  Health and Hygiene          0       0   30
+  Household                   0       0   52
+  Meat                       13      19    0
+  Others                      0       0   17
+  Seafood                     3       3    0
+  Snack Foods                45      30    0
+  Soft Drinks                22       4    0
+  Starchy Foods               0       4    0
+
+ 
+RESULTS FOR SHOP  OUT027 
+ 
+Variance of outlet establishment year:  0 
+Contingency tables for shop  OUT027 
+     
+      Low Fat Regular None
+  DRA       0       2    0
+  DRB       2       1    0
+  DRC       2       2    0
+  DRD       4       0    0
+  DRE       6       0    0
+  DRF       6       0    0
+  DRG       7       0    0
+  DRH       5       0    0
+  DRI       9       0    0
+  DRJ       6       0    0
+  DRK       8       0    0
+  DRL       4       1    0
+  DRM       6       0    0
+  DRN       3       0    0
+  DRO       0       0    0
+  DRP       1       0    0
+  DRQ       1       0    0
+  DRY       0       1    0
+  DRZ       1       1    0
+  FDA      19      13    0
+  FDB      12      12    0
+  FDC      14       7    0
+  FDD      16       7    0
+  FDE      13      11    0
+  FDF      11      10    0
+  FDG      10      14    0
+  FDH      12       9    0
+  FDI      13       8    0
+  FDJ       9      11    0
+  FDK      19       7    0
+  FDL      15       8    0
+  FDM       9       9    0
+  FDN      16      11    0
+  FDO      15      15    0
+  FDP      14       9    0
+  FDQ      13      17    0
+  FDR      14      18    0
+  FDS      15      12    0
+  FDT      13      15    0
+  FDU      15      20    0
+  FDV      14      11    0
+  FDW      15      19    0
+  FDX      18      12    0
+  FDY      13      17    0
+  FDZ      13      20    0
+  NCA       0       0    2
+  NCB       0       0    8
+  NCC       0       0    3
+  NCD       0       0    6
+  NCE       0       0    8
+  NCF       0       0    4
+  NCG       0       0    6
+  NCH       0       0    6
+  NCI       0       0    8
+  NCJ       0       0    9
+  NCK       0       0    9
+  NCL       0       0    7
+  NCM       0       0   10
+  NCN       0       0    6
+  NCO       0       0   11
+  NCP       0       0    9
+  NCQ       0       0   10
+  NCR       0       0    7
+  NCS       0       0    8
+  NCT       0       0    5
+  NCU       0       0    4
+  NCV       0       0    5
+  NCW       0       0    6
+  NCX       0       0    5
+  NCY       0       0    7
+  NCZ       0       0    5
+                       
+                        DRA DRB DRC DRD DRE DRF DRG DRH DRI DRJ DRK DRL DRM DRN DRO DRP
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   1   2   1   2   3   1   1   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   1   1   1   3   3   3   3   4   2   0   1
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        DRQ DRY DRZ FDA FDB FDC FDD FDE FDF FDG FDH FDI FDJ FDK FDL FDM
+  Baking Goods            0   0   0   5   2   0   1   2   2   3   1   1   2   3   4   2
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   2
+  Canned                  0   0   0   3   4   3   3   3   2   3   3   3   1   1   2   2
+  Dairy                   0   0   0   6   4   2   4   3   1   0   0   1   1   2   1   1
+  Frozen Foods            0   0   0   4   3   5   5   4   6   5   6   4   3   6   3   0
+  Fruits and Vegetables   0   0   0   7   6   5   5   7   6   4   3   4   3   4   4   2
+  Hard Drinks             1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   1   0   0   0   0   0   1   2   2   2   2   2   3
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   1   2   2   1   1   0   0   0
+  Snack Foods             0   0   0   4   4   3   2   3   3   4   3   5   7   7   7   6
+                       
+                        FDN FDO FDP FDQ FDR FDS FDT FDU FDV FDW FDX FDY FDZ NCA NCB NCC
+  Baking Goods            4   3   3   2   4   1   4   3   3   5   2   3   4   0   0   0
+  Breads                  1   2   3   3   4   4   3   4   1   1   2   2   1   0   0   0
+  Breakfast               1   3   1   2   1   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  2   3   3   2   2   2   1   3   4   5   5   3   4   0   0   0
+  Dairy                   0   0   0   1   1   2   3   4   3   3   2   5   6   0   0   0
+  Frozen Foods            2   4   2   3   3   4   2   2   2   4   2   2   3   0   0   0
+  Fruits and Vegetables   5   4   2   8   8   6   7   8   6   7   5   6   8   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   2   6   3
+  Meat                    4   5   3   3   3   3   2   3   3   4   3   3   2   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             8   6   6   6   6   5   6   8   3   5   9   6   5   0   0   0
+                       
+                        NCD NCE NCF NCG NCH NCI NCJ NCK NCL NCM NCN NCO NCP NCQ NCR NCS
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      1   0   0   0   0   2   2   4   3   3   1   5   4   4   5   5
+  Household               5   8   4   6   6   5   5   4   2   4   3   4   4   5   2   3
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   1   2   1   2   3   2   2   1   1   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        NCT NCU NCV NCW NCX NCY NCZ
+  Baking Goods            0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0
+  Health and Hygiene      3   3   2   4   1   4   2
+  Household               2   1   3   2   4   3   3
+  Meat                    0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0
+ [ reached getOption("max.print") -- omitted 2 rows ]
+                       
+                        Low Fat Regular None
+  Baking Goods               39      30    0
+  Breads                     17      14    0
+  Breakfast                   3       8    0
+  Canned                     35      37    0
+  Dairy                      32      35    0
+  Frozen Foods               49      40    0
+  Fruits and Vegetables      76      64    0
+  Hard Drinks                23       0    0
+  Health and Hygiene          0       0   60
+  Household                   0       0   99
+  Meat                       25      31    0
+  Others                      0       0   15
+  Seafood                     5       2    0
+  Snack Foods                82      55    0
+  Soft Drinks                37       8    0
+  Starchy Foods               8       6    0
+
+ 
+RESULTS FOR SHOP  OUT035 
+ 
+Variance of outlet establishment year:  0 
+Contingency tables for shop  OUT035 
+     
+      Low Fat Regular None
+  DRA       1       1    0
+  DRB       2       2    0
+  DRC       3       2    0
+  DRD       6       1    0
+  DRE       9       0    0
+  DRF       7       0    0
+  DRG       7       0    0
+  DRH       5       0    0
+  DRI       7       0    0
+  DRJ       7       0    0
+  DRK       6       0    0
+  DRL       8       1    0
+  DRM       4       1    0
+  DRN       4       0    0
+  DRO       1       0    0
+  DRP       1       0    0
+  DRQ       1       0    0
+  DRY       0       1    0
+  DRZ       0       0    0
+  FDA      17      11    0
+  FDB      16      16    0
+  FDC      15      10    0
+  FDD      14      10    0
+  FDE      10      12    0
+  FDF      11      11    0
+  FDG      14       9    0
+  FDH      12      12    0
+  FDI      11      12    0
+  FDJ      11      13    0
+  FDK      20       5    0
+  FDL      13      12    0
+  FDM       7      14    0
+  FDN      11      13    0
+  FDO      13      10    0
+  FDP      13       9    0
+  FDQ      18      17    0
+  FDR      11      15    0
+  FDS      14      14    0
+  FDT      20      13    0
+  FDU      17      14    0
+  FDV      13      12    0
+  FDW      16      11    0
+  FDX      21      12    0
+  FDY       9      14    0
+  FDZ      12      14    0
+  NCA       0       0    4
+  NCB       0       0    7
+  NCC       0       0    7
+  NCD       0       0    2
+  NCE       0       0    8
+  NCF       0       0    4
+  NCG       0       0    3
+  NCH       0       0    7
+  NCI       0       0    6
+  NCJ       0       0    6
+  NCK       0       0    8
+  NCL       0       0   10
+  NCM       0       0    6
+  NCN       0       0   11
+  NCO       0       0   10
+  NCP       0       0    9
+  NCQ       0       0    8
+  NCR       0       0    7
+  NCS       0       0    6
+  NCT       0       0    6
+  NCU       0       0    8
+  NCV       0       0    4
+  NCW       0       0    5
+  NCX       0       0    5
+  NCY       0       0    6
+  NCZ       0       0    5
+                       
+                        DRA DRB DRC DRD DRE DRF DRG DRH DRI DRJ DRK DRL DRM DRN DRO DRP
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   1   1   2   2   1   2   3   2   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   1   1   0   3   1   3   5   3   2   1   1
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        DRQ DRY DRZ FDA FDB FDC FDD FDE FDF FDG FDH FDI FDJ FDK FDL FDM
+  Baking Goods            0   0   0   1   4   1   0   2   1   2   1   2   3   3   3   3
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   3
+  Canned                  0   0   0   5   4   4   4   2   3   1   3   4   4   5   2   3
+  Dairy                   0   0   0   4   8   5   4   2   1   0   0   1   1   1   2   0
+  Frozen Foods            0   0   0   5   3   4   3   4   5   5   5   6   6   2   3   2
+  Fruits and Vegetables   0   0   0   4   8   6   6   5   6   7   7   3   1   2   4   1
+  Hard Drinks             1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   1   0   0   0   0   0   1   2   2   1   3   1   3
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   1   1   2   1   2   1   0   0
+  Snack Foods             0   0   0   7   4   4   3   3   2   4   3   3   6   7  10   6
+                       
+                        FDN FDO FDP FDQ FDR FDS FDT FDU FDV FDW FDX FDY FDZ NCA NCB NCC
+  Baking Goods            2   4   2   3   4   5   1   4   2   4   4   3   4   0   0   0
+  Breads                  1   1   2   4   3   4   2   2   5   2   0   2   1   0   0   0
+  Breakfast               2   1   1   1   1   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  2   1   1   3   2   2   4   4   2   4   4   4   2   0   0   0
+  Dairy                   0   0   0   2   0   1   4   4   3   4   3   5   2   0   0   0
+  Frozen Foods            3   2   3   3   3   4   4   2   4   2   5   2   2   0   0   0
+  Fruits and Vegetables   2   6   5   7   5   6   7   7   4   3   8   2   7   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   2   2   1
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   2   5   6
+  Meat                    4   1   2   4   2   2   3   3   1   3   2   1   1   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             8   7   6   8   6   4   8   5   4   5   7   4   6   0   0   0
+                       
+                        NCD NCE NCF NCG NCH NCI NCJ NCK NCL NCM NCN NCO NCP NCQ NCR NCS
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   1   1   2   3   5   2   3   3   2   2   4   2
+  Household               2   8   4   3   6   4   4   3   2   2   5   6   4   5   3   4
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   1   0   2   3   2   3   1   3   1   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        NCT NCU NCV NCW NCX NCY NCZ
+  Baking Goods            0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0
+  Health and Hygiene      1   4   1   2   2   3   2
+  Household               5   4   3   3   3   3   3
+  Meat                    0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0
+ [ reached getOption("max.print") -- omitted 2 rows ]
+                       
+                        Low Fat Regular None
+  Baking Goods               35      33    0
+  Breads                     16      13    0
+  Breakfast                   3       7    0
+  Canned                     42      37    0
+  Dairy                      42      29    0
+  Frozen Foods               42      50    0
+  Fruits and Vegetables      68      61    0
+  Hard Drinks                22       0    0
+  Health and Hygiene          0       0   50
+  Household                   0       0  102
+  Meat                       18      25    0
+  Others                      0       0   16
+  Seafood                     6       2    0
+  Snack Foods                89      51    0
+  Soft Drinks                43       9    0
+  Starchy Foods              12       7    0
+
+ 
+RESULTS FOR SHOP  OUT045 
+ 
+Variance of outlet establishment year:  0 
+Contingency tables for shop  OUT045 
+     
+      Low Fat Regular None
+  DRA       1       0    0
+  DRB       1       0    0
+  DRC       2       2    0
+  DRD       7       1    0
+  DRE       8       0    0
+  DRF      10       0    0
+  DRG       9       0    0
+  DRH       7       0    0
+  DRI       6       0    0
+  DRJ      10       0    0
+  DRK       7       0    0
+  DRL       7       0    0
+  DRM       4       1    0
+  DRN       4       0    0
+  DRO       2       0    0
+  DRP       1       0    0
+  DRQ       1       0    0
+  DRY       0       0    0
+  DRZ       1       1    0
+  FDA      14      10    0
+  FDB      18      13    0
+  FDC      10       8    0
+  FDD      16       8    0
+  FDE      10      11    0
+  FDF      16      11    0
+  FDG       9      13    0
+  FDH      10      13    0
+  FDI      12      14    0
+  FDJ      10      11    0
+  FDK      19       6    0
+  FDL      12       9    0
+  FDM       6       8    0
+  FDN      14       9    0
+  FDO      10      12    0
+  FDP      16       9    0
+  FDQ      13      10    0
+  FDR      13      19    0
+  FDS      14      18    0
+  FDT      20      16    0
+  FDU      13      15    0
+  FDV      16      15    0
+  FDW      13      14    0
+  FDX      18      15    0
+  FDY      15      17    0
+  FDZ      10      11    0
+  NCA       0       0    7
+  NCB       0       0    6
+  NCC       0       0    4
+  NCD       0       0    4
+  NCE       0       0    7
+  NCF       0       0    6
+  NCG       0       0    5
+  NCH       0       0    6
+  NCI       0       0    8
+  NCJ       0       0    7
+  NCK       0       0    8
+  NCL       0       0    8
+  NCM       0       0    8
+  NCN       0       0    8
+  NCO       0       0   11
+  NCP       0       0    6
+  NCQ       0       0    7
+  NCR       0       0    7
+  NCS       0       0    7
+  NCT       0       0    6
+  NCU       0       0    6
+  NCV       0       0    6
+  NCW       0       0    5
+  NCX       0       0    7
+  NCY       0       0    8
+  NCZ       0       0    6
+                       
+                        DRA DRB DRC DRD DRE DRF DRG DRH DRI DRJ DRK DRL DRM DRN DRO DRP
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   1   2   3   2   3   0   1   2   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   1   2   2   2   3   4   4   3   3   2   1
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        DRQ DRY DRZ FDA FDB FDC FDD FDE FDF FDG FDH FDI FDJ FDK FDL FDM
+  Baking Goods            0   0   0   4   2   0   1   2   1   2   3   3   4   2   2   1
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0
+  Canned                  0   0   0   3   4   2   4   3   3   4   4   4   2   3   1   1
+  Dairy                   0   0   0   3   8   4   4   2   1   0   1   1   1   1   1   0
+  Frozen Foods            0   0   0   2   4   1   3   6   6   3   4   5   2   5   1   2
+  Fruits and Vegetables   0   0   0   6   6   6   4   4   9   7   5   4   5   4   4   2
+  Hard Drinks             1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   2   1   2   2   2
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   1   2   2   1   2   1   0   0
+  Snack Foods             0   0   0   6   4   3   4   2   4   3   2   6   4   6   9   6
+                       
+                        FDN FDO FDP FDQ FDR FDS FDT FDU FDV FDW FDX FDY FDZ NCA NCB NCC
+  Baking Goods            4   2   3   3   4   2   4   2   3   5   5   4   2   0   0   0
+  Breads                  1   1   3   2   4   4   3   4   3   3   2   2   1   0   0   0
+  Breakfast               2   3   2   0   1   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  2   1   1   2   2   5   4   3   4   3   3   3   3   0   0   0
+  Dairy                   0   0   0   1   2   2   3   3   3   3   2   5   4   0   0   0
+  Frozen Foods            2   2   2   1   2   5   4   3   3   2   4   4   3   0   0   0
+  Fruits and Vegetables   4   4   6   5   7   6   9   5   6   5   8   7   5   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   3   1   2
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   4   5   2
+  Meat                    2   3   3   2   3   2   3   3   3   1   2   1   1   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             6   6   5   7   7   6   6   5   6   5   7   6   2   0   0   0
+                       
+                        NCD NCE NCF NCG NCH NCI NCJ NCK NCL NCM NCN NCO NCP NCQ NCR NCS
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      1   0   0   0   1   2   2   1   2   3   2   3   1   2   4   2
+  Household               3   7   6   5   5   5   4   5   2   2   4   5   3   3   3   5
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   1   1   2   4   3   2   3   2   2   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        NCT NCU NCV NCW NCX NCY NCZ
+  Baking Goods            0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0
+  Health and Hygiene      4   3   2   3   4   4   3
+  Household               2   3   4   2   3   4   3
+  Meat                    0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0
+ [ reached getOption("max.print") -- omitted 2 rows ]
+                       
+                        Low Fat Regular None
+  Baking Goods               37      33    0
+  Breads                     18      15    0
+  Breakfast                   5       5    0
+  Canned                     37      37    0
+  Dairy                      43      26    0
+  Frozen Foods               47      34    0
+  Fruits and Vegetables      77      66    0
+  Hard Drinks                28       0    0
+  Health and Hygiene          0       0   55
+  Household                   0       0   99
+  Meat                       12      26    0
+  Others                      0       0   20
+  Seafood                     5       4    0
+  Snack Foods                73      60    0
+  Soft Drinks                46       5    0
+  Starchy Foods               7       9    0
+
+ 
+RESULTS FOR SHOP  OUT046 
+ 
+Variance of outlet establishment year:  0 
+Contingency tables for shop  OUT046 
+     
+      Low Fat Regular None
+  DRA       0       1    0
+  DRB       0       1    0
+  DRC       3       2    0
+  DRD       7       0    0
+  DRE       9       0    0
+  DRF      10       0    0
+  DRG      11       0    0
+  DRH       8       0    0
+  DRI       7       0    0
+  DRJ       6       0    0
+  DRK       6       0    0
+  DRL       3       0    0
+  DRM       3       0    0
+  DRN       4       0    0
+  DRO       2       0    0
+  DRP       2       0    0
+  DRQ       0       0    0
+  DRY       0       1    0
+  DRZ       1       0    0
+  FDA      15      13    0
+  FDB      12      13    0
+  FDC      14       8    0
+  FDD      14      10    0
+  FDE      10       7    0
+  FDF      10       7    0
+  FDG      12      10    0
+  FDH      12      15    0
+  FDI      12      16    0
+  FDJ       9      11    0
+  FDK      13       6    0
+  FDL      10       8    0
+  FDM      10      14    0
+  FDN      13      11    0
+  FDO      11      14    0
+  FDP      16      13    0
+  FDQ       9      14    0
+  FDR      14      13    0
+  FDS      15      17    0
+  FDT      16      15    0
+  FDU      15      11    0
+  FDV      14      10    0
+  FDW      12      21    0
+  FDX      21      17    0
+  FDY      12      16    0
+  FDZ      14      17    0
+  NCA       0       0    9
+  NCB       0       0    5
+  NCC       0       0    7
+  NCD       0       0    5
+  NCE       0       0    8
+  NCF       0       0    7
+  NCG       0       0    6
+  NCH       0       0    2
+  NCI       0       0    7
+  NCJ       0       0    8
+  NCK       0       0    7
+  NCL       0       0   11
+  NCM       0       0    9
+  NCN       0       0   12
+  NCO       0       0    9
+  NCP       0       0    7
+  NCQ       0       0    5
+  NCR       0       0    7
+  NCS       0       0    6
+  NCT       0       0    6
+  NCU       0       0    5
+  NCV       0       0    8
+  NCW       0       0    3
+  NCX       0       0    7
+  NCY       0       0   10
+  NCZ       0       0    5
+                       
+                        DRA DRB DRC DRD DRE DRF DRG DRH DRI DRJ DRK DRL DRM DRN DRO DRP
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   1   3   4   5   3   1   1   1   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   1   2   1   1   3   2   1   2   3   2   2
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        DRQ DRY DRZ FDA FDB FDC FDD FDE FDF FDG FDH FDI FDJ FDK FDL FDM
+  Baking Goods            0   0   0   5   4   2   0   0   1   2   2   3   2   4   2   3
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1
+  Canned                  0   0   0   4   4   4   4   3   1   3   4   3   3   2   2   3
+  Dairy                   0   0   0   6   6   1   5   1   1   0   1   1   1   2   1   0
+  Frozen Foods            0   0   0   4   3   5   6   5   6   5   8   6   5   4   2   5
+  Fruits and Vegetables   0   0   0   4   6   5   6   4   5   5   5   4   2   3   2   3
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   1   0   0   0   0   0   0   2   2   1   0   2   2
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   2   0   2   1   1   0   0
+  Snack Foods             0   0   0   3   1   3   1   2   2   2   4   6   5   3   7   7
+                       
+                        FDN FDO FDP FDQ FDR FDS FDT FDU FDV FDW FDX FDY FDZ NCA NCB NCC
+  Baking Goods            3   4   4   3   1   4   5   3   0   3   6   6   4   0   0   0
+  Breads                  1   1   2   2   2   4   2   3   2   2   3   1   1   0   0   0
+  Breakfast               3   2   1   2   1   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  2   2   1   0   2   3   4   4   1   3   2   3   5   0   0   0
+  Dairy                   0   0   1   1   3   2   3   3   2   4   5   4   5   0   0   0
+  Frozen Foods            4   4   5   2   2   2   4   3   5   4   3   3   3   0   0   0
+  Fruits and Vegetables   4   4   7   5   7   7   6   5   3   7   7   4   6   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   4   0   1
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   5   5   6
+  Meat                    2   2   2   3   2   4   3   2   4   4   3   2   1   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             5   6   6   5   7   6   4   3   7   6   9   5   5   0   0   0
+                       
+                        NCD NCE NCF NCG NCH NCI NCJ NCK NCL NCM NCN NCO NCP NCQ NCR NCS
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   2   1   3   5   4   3   3   3   2   2   1
+  Household               5   8   7   6   2   5   5   1   2   1   5   4   2   2   5   5
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   2   3   4   4   4   2   2   1   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        NCT NCU NCV NCW NCX NCY NCZ
+  Baking Goods            0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0
+  Health and Hygiene      4   2   5   2   2   5   2
+  Household               2   3   3   1   5   5   3
+  Meat                    0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0
+ [ reached getOption("max.print") -- omitted 2 rows ]
+                       
+                        Low Fat Regular None
+  Baking Goods               38      38    0
+  Breads                     13      13    0
+  Breakfast                   3       7    0
+  Canned                     35      37    0
+  Dairy                      49      29    0
+  Frozen Foods               56      52    0
+  Fruits and Vegetables      65      61    0
+  Hard Drinks                20       0    0
+  Health and Hygiene          0       0   56
+  Household                   0       0  103
+  Meat                       18      26    0
+  Others                      0       0   22
+  Seafood                     2       4    0
+  Snack Foods                67      53    0
+  Soft Drinks                43       5    0
+  Starchy Foods               8       7    0
+
+ 
+RESULTS FOR SHOP  OUT049 
+ 
+Variance of outlet establishment year:  0 
+Contingency tables for shop  OUT049 
+     
+      Low Fat Regular None
+  DRA       0       2    0
+  DRB       2       2    0
+  DRC       2       0    0
+  DRD       7       1    0
+  DRE       8       0    0
+  DRF       9       0    0
+  DRG       7       0    0
+  DRH       7       0    0
+  DRI       6       0    0
+  DRJ       5       0    0
+  DRK       9       0    0
+  DRL       7       1    0
+  DRM       3       1    0
+  DRN       5       0    0
+  DRO       3       0    0
+  DRP       2       0    0
+  DRQ       1       0    0
+  DRY       0       1    0
+  DRZ       1       1    0
+  FDA      18       9    0
+  FDB      21       8    0
+  FDC      10      13    0
+  FDD      16       8    0
+  FDE      11      11    0
+  FDF      14      11    0
+  FDG      11      11    0
+  FDH      15      13    0
+  FDI      11      13    0
+  FDJ       9      13    0
+  FDK      10       8    0
+  FDL      11      13    0
+  FDM       6       7    0
+  FDN       9      11    0
+  FDO      14      13    0
+  FDP      14      11    0
+  FDQ      14      11    0
+  FDR      15      17    0
+  FDS      12      18    0
+  FDT      16      16    0
+  FDU      11      18    0
+  FDV      20      17    0
+  FDW      15      14    0
+  FDX      13      13    0
+  FDY      14      16    0
+  FDZ      18      12    0
+  NCA       0       0    5
+  NCB       0       0    6
+  NCC       0       0    8
+  NCD       0       0    7
+  NCE       0       0    3
+  NCF       0       0    5
+  NCG       0       0    4
+  NCH       0       0    4
+  NCI       0       0    7
+  NCJ       0       0    5
+  NCK       0       0    6
+  NCL       0       0    9
+  NCM       0       0   11
+  NCN       0       0    6
+  NCO       0       0   10
+  NCP       0       0    7
+  NCQ       0       0    9
+  NCR       0       0    7
+  NCS       0       0    9
+  NCT       0       0    3
+  NCU       0       0    6
+  NCV       0       0    5
+  NCW       0       0    6
+  NCX       0       0    4
+  NCY       0       0    6
+  NCZ       0       0    6
+                       
+                        DRA DRB DRC DRD DRE DRF DRG DRH DRI DRJ DRK DRL DRM DRN DRO DRP
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   1   2   2   2   4   3   1   1   1   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   1   1   3   3   2   4   4   2   4   3   2
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        DRQ DRY DRZ FDA FDB FDC FDD FDE FDF FDG FDH FDI FDJ FDK FDL FDM
+  Baking Goods            0   0   0   2   4   1   1   1   1   3   4   3   3   2   3   2
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   1   2   0
+  Canned                  0   0   0   2   1   3   4   2   2   3   3   4   3   3   4   0
+  Dairy                   0   0   0   7   7   6   4   0   0   0   1   2   1   2   2   1
+  Frozen Foods            0   0   0   3   4   4   6   6   8   7   4   4   4   2   2   2
+  Fruits and Vegetables   0   0   0   6   6   4   4   6   7   4   5   4   4   3   2   2
+  Hard Drinks             1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Meat                    0   0   0   1   0   0   0   0   0   1   1   1   2   3   3   2
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   2   2   2   1   0   0   0
+  Snack Foods             0   0   0   5   6   4   3   3   3   1   6   3   4   2   6   4
+                       
+                        FDN FDO FDP FDQ FDR FDS FDT FDU FDV FDW FDX FDY FDZ NCA NCB NCC
+  Baking Goods            0   3   4   1   1   2   2   3   3   5   2   4   6   0   0   0
+  Breads                  1   1   0   0   5   3   3   2   3   3   1   2   1   0   0   0
+  Breakfast               4   4   1   0   1   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  1   3   3   3   1   2   3   3   5   3   2   3   1   0   0   0
+  Dairy                   0   0   0   2   1   3   3   3   5   2   2   3   4   0   0   0
+  Frozen Foods            2   4   4   4   4   3   3   2   3   2   1   2   3   0   0   0
+  Fruits and Vegetables   4   3   5   4   8   8   9   6   8   6   7   7   6   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      0   0   0   0   0   0   0   0   0   0   0   0   0   3   1   2
+  Household               0   0   0   0   0   0   0   0   0   0   0   0   0   2   5   6
+  Meat                    2   3   2   4   3   3   2   2   2   3   4   2   1   0   0   0
+  Others                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             6   6   6   7   8   6   7   8   8   5   7   7   8   0   0   0
+                       
+                        NCD NCE NCF NCG NCH NCI NCJ NCK NCL NCM NCN NCO NCP NCQ NCR NCS
+  Baking Goods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Health and Hygiene      1   0   0   0   0   1   2   3   3   3   2   4   2   2   2   5
+  Household               6   3   5   4   4   5   2   2   4   4   0   4   5   5   5   4
+  Meat                    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   1   1   1   2   4   4   2   0   2   0   0
+  Seafood                 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+                       
+                        NCT NCU NCV NCW NCX NCY NCZ
+  Baking Goods            0   0   0   0   0   0   0
+  Breads                  0   0   0   0   0   0   0
+  Breakfast               0   0   0   0   0   0   0
+  Canned                  0   0   0   0   0   0   0
+  Dairy                   0   0   0   0   0   0   0
+  Frozen Foods            0   0   0   0   0   0   0
+  Fruits and Vegetables   0   0   0   0   0   0   0
+  Hard Drinks             0   0   0   0   0   0   0
+  Health and Hygiene      0   3   3   4   2   3   1
+  Household               3   3   2   2   2   3   5
+  Meat                    0   0   0   0   0   0   0
+  Others                  0   0   0   0   0   0   0
+  Seafood                 0   0   0   0   0   0   0
+  Snack Foods             0   0   0   0   0   0   0
+ [ reached getOption("max.print") -- omitted 2 rows ]
+                       
+                        Low Fat Regular None
+  Baking Goods               29      37    0
+  Breads                     13      12    0
+  Breakfast                   4       9    0
+  Canned                     40      27    0
+  Dairy                      49      29    0
+  Frozen Foods               50      43    0
+  Fruits and Vegetables      68      70    0
+  Hard Drinks                30       0    0
+  Health and Hygiene          0       0   52
+  Household                   0       0   95
+  Meat                       18      29    0
+  Others                      0       0   17
+  Seafood                     4       3    0
+  Snack Foods                81      58    0
+  Soft Drinks                37       9    0
+  Starchy Foods               9       8    0
+
+ 

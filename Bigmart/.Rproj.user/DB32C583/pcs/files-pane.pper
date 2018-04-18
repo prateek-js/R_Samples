@@ -1,0 +1,9 @@
+{
+    "path" : "~/Bigmart",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
